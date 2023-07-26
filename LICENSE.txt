@@ -14,6 +14,7 @@ copied from it from time to time. Authorship of the contents of
 the patches directory is retained by the Minecraft Forge project.
 This is because the patches are partially machine generated
 artifacts, and are changed heavily due to the way forge works.
+Arrested capital))))
 Individual attribution within them is impossible.
 
 Consent:
