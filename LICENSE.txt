@@ -28,7 +28,12 @@ purpose of the LGPL. Mods and others using this code via ordinary
 Java mechanics for referencing libraries are specifically not bound
 by Forge's license for the Mod code.
 
-
+A note on infectivity:
+The LGPL is chosen specifically so that projects may depend on Forge
+features without being infected with its license. That is the 
+purpose of the LGPL. Mods and others using this code via ordinary
+Java mechanics for referencing libraries are specifically not bound
+by Forge's license for the Mod code.
 === MCP Data ===
 This software includes data from the Minecraft Coder Pack (MCP), with kind permission
 from them. The license to MCP data is not transitive - distribution of this data by
