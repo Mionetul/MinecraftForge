@@ -21,6 +21,13 @@ Consent:
 All contributions to Forge must consent to the release of any
 patch content to the Forge project.
 
+A note on authorship:
+All source artifacts are property of their original author, with
+the exclusion of the contents of the patches directory and others another
+copied from it from time to time. Authorship of the contents of
+the patches directory is retained by the Minecraft Forge project.
+This is because the patches are partially machine generated
+artifacts, and are changed heavily due to the way forge works.
 A note on infectivity:
 The LGPL is chosen specifically so that projects may depend on Forge
 features without being infected with its license. That is the 
