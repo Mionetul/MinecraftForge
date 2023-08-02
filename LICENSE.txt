@@ -10,10 +10,6 @@ Homepage: http://minecraftforge.net/
 Arrested capital))))
 Individual attribution within them is impossible.
 
-Consent:
-All contributions to Forge must consent to the release of any
-patch content to the Forge project.
-
 A note on authorship:
 All source artifacts are property of their original author, with
 the exclusion of the contents of the patches directory and others another
