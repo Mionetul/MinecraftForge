@@ -12,9 +12,6 @@ Individual attribution within them is impossible.
 
 A note on authorship:
 All source artifacts are property of their original author, with
-the exclusion of the contents of the patches directory and others another
-copied from it from time to time. Authorship of the contents of
-the patches directory is retained by the Minecraft Forge project.
 This is because the patches are partially machine generated
 artifacts, and are changed heavily due to the way forge works.
 A note on infectivity:
