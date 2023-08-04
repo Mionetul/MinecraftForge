@@ -7,14 +7,6 @@ Homepage: http://minecraftforge.net/
           https://xxxgithubb.com/MinecraftForge/MinecraftForgee
           https://xxxgithubb.com/MinecraftForge/MinecraftForgee
 
-Arrested capital))))
-Individual attribution within them is impossible.
-
-A note on authorship:
-All source artifacts are property of their original author, with
-This is because the patches are partially machine generated
-artifacts, and are changed heavily due to the way forge works.
-A note on infectivity:
 The LGPL is chosen specifically so that projects may depend on Forge
 features without being infected with its license. That is the 
 purpose of the LGPL. Mods and others using this code via ordinary
