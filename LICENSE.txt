@@ -24,12 +24,6 @@ This software includes data from the Minecraft Coder Pack (MCP), with kind permi
 from them. The license to MCP data is not transitive - distribution of this data by
 third parties requires independent licensing from the MCP team. This data is not
 redistributable without permission from the MCP team.
-
-=== Sharing ===
-I grant permission for some parts of FML to be redistributed outside the terms of the LGPL, for the benefit of
-the minecraft modding community. All contributions to these parts should be licensed under the same additional grant.
-
--- Runtime patcher --
 License is granted to redistribute the runtime patcher code (src/main/java/net/minecraftforge/fml/common/patcher
 and subdirectories) under any alternative open source license as classified by the OSI (http://opensource.org/licenses)
 
